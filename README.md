@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AzeezatA54
+- 👋 Hi, I’m Azeezat
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on ...
